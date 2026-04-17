@@ -1,4 +1,4 @@
-# Asynchronous FIFO (Dual Clock Domain) – Verilog Implementation
+# Asynchronous FIFO (Dual Clock Domain)
 
 ## Overview  
 This project implements a fully synthesizable Asynchronous FIFO in Verilog to enable reliable data transfer between two independent clock domains. The design addresses key clock domain crossing (CDC) challenges such as metastability, synchronization, and correct flag generation.
